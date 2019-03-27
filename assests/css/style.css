@@ -1,5 +1,5 @@
  html{
- 	background-color: #b30000;
+ 	background-color: #cc99ff;
      }
  body{
  	background-color: #ede6e6;
@@ -59,12 +59,12 @@ nav {
 	text-align: center;
 }
 footer{
-	background-color:#e5e0e0;
+	background-color:#ffffff;
 	height: 140px; 
 	padding-top: 20px;
 }
 footer li{
-	border-right: 1px solid #373535;
+	border-right: 1px solid #ffffff;
 }
 footer li:last-child{
 	border-right: none;
