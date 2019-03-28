@@ -5,7 +5,9 @@
  	background-color: #ede6e6;
  	margin: 0 auto;
  	width: 950px;
+ 	height: 807px;
     font-family: sans-serif;
+
      }
  a{
  	text-decoration: none;
@@ -22,6 +24,7 @@ li{
 	padding: 10px;
 	font-size: 20px;
 }
+
 #logo{
 	width: 320px;
 	text-align: center;
